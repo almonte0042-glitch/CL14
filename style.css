@@ -1,0 +1,77 @@
+body {
+  position: relative;
+}
+
+#backimg0{
+  left: 0;
+  top: 0;
+}
+
+#bt0{
+  position: absolute;
+  left: 300px;
+  top: 60px;
+  width: 100px;
+}
+
+#bt1{
+  position: absolute;
+  left: 500px;
+  top: 400px;
+  width: 100px;
+}
+
+#bt2{
+  position: absolute;
+  left: 100px;
+  top: 300px;
+  width: 150px;
+}
+
+.foo {
+  position: absolute;
+  width: 40px;
+}
+
+#f0 {
+  left: 500px;
+  top: 250px;
+}
+
+#f1 {
+  left: 600px;
+  top: 250px;
+}
+
+#f2 {
+  left: 550px;
+  top: 270px;
+}
+
+#f3 {
+  left: 580px;
+  top: 200px;
+}
+
+#f4 {
+  left: 450px;
+  top: 300px;
+}
+
+#backimg1{
+  position: absolute;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+}
+
+.message {
+  position: absolute;
+  left: 20px;
+  top: 30px;
+  width: 540px;
+  height: 90px;
+  background-color: rgb(255,255,255,0.5);
+  color: red;
+  font-size: 30px;
+}
